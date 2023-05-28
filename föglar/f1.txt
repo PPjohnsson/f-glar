@@ -1,0 +1,37 @@
+R,Aftonfalk,Falco vespertinus,0
+B,Alfågel,Clangula hyemalis,62
+R,Alförrädare,Polysticta stelleri,0
+R,Alkekung,Alle alle,0
+b,Amerikansk kopparand,Oxyura jamaicensis,0
+R,Amerikansk kricka,Anas carolinensis,0
+B,Backsvala,Riparia riparia,0
+B,Bergand,Aythya marila,315
+B,Bergfink,Fringilla montifringilla,1051
+B,Berglärka,Eremophila alpestris,0
+B,Berguv,Bubo bubo,0
+B,Bivråk,Pernis apivorus,0
+R,Biätare,Merops apiaster,0
+B,Björktrast,Turdus pilaris,2913
+B,Blå kärrhök,Circus cyaneus,8
+B,Blåhake,Luscinia svecica,0
+B,Blåmes,Parus caeruleus,3696
+B,Bläsand,Anas penelope,1195
+M,Bläsgås,Anser albifrons,443
+B,Bofink,Fringilla coelebs,902
+R,Brandkronad kungsfågel,Regulus ignicapillus,0
+R,Brednäbbad simsnäppa,Phalaropus fulicarius,0
+R,Bredstjärtad labb,Stercorarius pomarinus,1
+b,Brun glada,Milvus migrans,2
+B,Brun kärrhök,Circus aeruginosus,0
+B,Brunand,Aythya ferina,140
+B,Brushane,Philomachus pugnax,0
+B,Buskskvätta,Saxicola rubetra,0
+R,Busksångare,Acrocephalus dumetorum,0
+R,Bändelkorsnäbb,Loxia leucoptera,0
+R,Citronärla,Motacilla citreola,0
+B,Dalripa,Lagopus lagopus,0
+R,Dammsnäppa,Tringa stagnatilis,0
+B,Domherre,Pyrrhula pyrrhula,1840
+B,Drillsnäppa,Actitis hypoleucos,1
+B,Dubbelbeckasin,Gallinago media,0
+B,Dubbeltrast,Turdus viscivorus,1

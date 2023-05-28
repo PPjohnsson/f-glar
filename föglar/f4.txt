@@ -1,0 +1,73 @@
+B,Lavskrika,Perisoreus infaustus,3
+B,Ljungpipare,Pluvialis apricaria,56
+b,Lundsångare,Phylloscopus trochiloides,0
+R,Lunnefågel,Fratercula arctica,0
+B,Lärkfalk,Falco subbuteo,0
+B,Lövsångare,Phylloscopus trochilus,0
+R,Medelhavstrut,Larus michahellis,0
+R,Mellanspett,Dendrocopos medius,0
+B,Mindre flugsnappare,Ficedula parva,0
+B,Mindre hackspett,Dendrocopos minor,17
+B,Mindre korsnäbb,Loxia curvirostra,401
+R,Mindre lira,Puffinus puffinus,0
+R,Mindre skrikörn,Aquila pomarina,0
+B,Mindre strandpipare,Charadrius dubius,0
+R,Mindre sumphöna,Porzana parva,0
+M,Mindre sångsvan,Cygnus columbianus,13
+B,Morkulla,Scolopax rusticola,1
+B,Mosnäppa,Calidris temminckii,0
+B,Myrsnäppa,Limicola falcinellus,0
+B,Myrspov,Limosa lapponica,0
+B,Nattskärra,Caprimulgus europaeus,0
+b,Nordsångare,Phylloscopus borealis,0
+B,Näktergal,Luscinia luscinia,0
+B,Nötkråka,Nucifraga caryocatactes,12
+B,Nötskrika,Garrulus glandarius,388
+B,Nötväcka,Sitta europaea,1244
+B,Ormvråk,Buteo buteo,324
+B,Orre,Tetrao tetrix,74
+B,Ortolansparv,Emberiza hortulana,0
+B,Pilfink,Passer montanus,1515
+B,Pilgrimsfalk,Falco peregrinus,9
+R,Praktejder,Somateria spectabilis,0
+M,Prutgås,Branta bernicla,0
+B,Pungmes,Remiz pendulinus,0
+B,Pärluggla,Aegolius funereus,1
+B,Rapphöna,Perdix perdix,49
+B,Ringduva,Columba palumbus,1129
+B,Ringtrast,Turdus torquatus,0
+B,Rosenfink,Carpodacus erythrinus,0
+R,Rosenstare,Sturnus roseus,0
+B,Roskarl,Arenaria interpres,0
+R,Rostand,Tadorna ferruginea,0
+R,Rostgumpsvala,Hirundo daurica,0
+B,Råka,Corvus frugilegus,1626
+B,Röd glada,Milvus milvus,240
+B,Rödbena,Tringa totanus,9
+B,Rödhake,Erithacus rubecula,146
+R,Rödhalsad gås,Branta ruficollis,0
+R,Rödhuvad dykand,Netta rufina,0
+B,Rödspov,Limosa limosa,0
+B,Rödstjärt,Phoenicurus phoenicurus,0
+B,Rödstrupig piplärka,Anthus cervinus,0
+B,Rödvingetrast,Turdus iliacus,33
+B,Rördrom,Botaurus stellaris,0
+B,Rörhöna,Gallinula chloropus,27
+B,Rörsångare,Acrocephalus scirpaceus,0
+B,Salskrake,Mergellus albellus,360
+M,Sandlöpare,Calidris alba,0
+B,Sidensvans,Bombycilla garrulus,803
+B,Sillgrissla,Uria aalge,8
+B,Silltrut,Larus fuscus,0
+B,Silvertärna,Sterna paradisaea,0
+B,Sjöorre,Melanitta nigra,241
+B,Skata,Pica pica,2239
+B,Skedand,Anas clypeata,0
+B,Skogsduva,Columba oenas,34
+B,Skogssnäppa,Tringa ochropus,0
+B,Skrattmås,Larus ridibundus,1773
+B,Skräntärna,Sterna caspia,0
+B,Skäggdopping,Podiceps cristatus,425
+B,Skäggmes,Panurus biarmicus,17
+B,Skärfläcka,Recurvirostra avosetta,0
+B,Skärpiplärka,Anthus petrosus,4

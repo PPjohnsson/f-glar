@@ -1,0 +1,113 @@
+B,Skärsnäppa,Calidris maritima,10
+B,Slaguggla,Strix uralensis,1
+B,Smalnäbbad simsnäppa,Phalaropus lobatus,0
+B,Smådopping,Tachybaptus ruficollis,13
+B,Småfläckig sumphöna,Porzana porzana,0
+B,Smålom,Gavia stellata,2
+B,Småskrake,Mergus serrator,289
+M,Småsnäppa,Calidris minuta,0
+B,Småspov,Numenius phaeopus,0
+B,Småtärna,Sterna albifrons,0
+B,Snatterand,Anas strepera,11
+B,Snösiska,Carduelis hornemanni,2
+B,Snösparv,Plectrophenax nivalis,0
+B,Sommargylling,Oriolus oriolus,0
+B,Sothöna,Fulica atra,2379
+B,Sparvhök,Accipiter nisus,31
+B,Sparvuggla,Glaucidium passerinum,6
+M,Spetsbergsgås,Anser brachyrhynchus,6
+B,Spillkråka,Dryocopus martius,105
+M,Spovsnäppa,Calidris ferruginea,0
+B,Stare,Sturnus vulgaris,489
+B,Steglits,Carduelis carduelis,359
+B,Stenfalk,Falco columbarius,1
+B,Stenknäck,Coccothraustes coccothraustes,195
+B,Stenskvätta,Oenanthe oenanthe,0
+B,Stjärtand,Anas acuta,6
+B,Stjärtmes,Aegithalos caudatus,266
+R,Storlabb,Catharacta skua,0
+B,Storlom,Gavia arctica,1
+R,Stormfågel,Fulmarus glacialis,0
+R,Stormsvala,Hydrobates pelagicus,0
+B,Storskarv,Phalacrocorax carbo,1448
+B,Storskrake,Mergus merganser,1335
+B,Storspov,Numenius arquata,28
+B,Strandskata,Haematopus ostralegus,0
+B,Strömstare,Cinclus cinclus,58
+R,Stäpphök,Circus macrourus,0
+B,Större hackspett,Dendrocopos major,767
+B,Större korsnäbb,Loxia pytyopsittacus,42
+R,Större piplärka,Anthus richardi,0
+R,Större skrikörn,Aquila clanga,0
+B,Större strandpipare,Charadrius hiaticula,0
+B,Svart rödstjärt,Phoenicurus ochruros,1
+b,Svart stork,Ciconia nigra,0
+B,Svartbent strandpipare,Charadrius alexandrinus,0
+R,Svarthakad buskskvätta,Saxicola torquatus,0
+B,Svarthakedopping,Podiceps auritus,1
+B,Svarthalsad dopping,Podiceps nigricollis,0
+R,Svarthuvad mås,Larus melanocephalus,0
+B,Svarthätta,Sylvia atricapilla,1
+B,Svartmes,Parus ater,197
+R,Svartnäbbad islom,Gavia immer,0
+R,Svartpannad törnskata,Lanius minor,0
+B,Svartsnäppa,Tringa erythropus,0
+B,Svarttärna,Chlidonias niger,0
+B,Svartvit flugsnappare,Ficedula hypoleuca,0
+B,Svärta,Melanitta fusca,273
+B,Sånglärka,Alauda arvensis,8
+B,Sångsvan,Cygnus cygnus,2521
+B,Sädesärla,Motacilla alba,0
+B,Sädgås,Anser fabalis,6401
+B,Sävsparv,Emberiza schoeniclus,11
+B,Sävsångare,Acrocephalus schoenobaenus,0
+R,Taigasångare,Phylloscopus inornatus,0
+B,Talgoxe,Parus major,4525
+B,Tallbit,Pinicola enucleator,9
+B,Talltita,Parus montanus,261
+B,Taltrast,Turdus philomelos,1
+R,Tereksnäppa,Xenus cinereus,0
+B,Tjäder,Tetrao urogallus,7
+B,Tobisgrissla,Cepphus grylle,2
+R,Tofslärka,Galerida cristata,0
+B,Tofsmes,Parus cristatus,184
+B,Tofsvipa,Vanellus vanellus,1
+b,Toppskarv,Phalacrocorax aristotelis,6
+B,Tordmule,Alca torda,1
+B,Tornfalk,Falco tinnunculus,15
+B,Tornseglare,Apus apus,0
+b,Tornuggla,Tyto alba,0
+B,Trana,Grus grus,2
+B,Trastsångare,Acrocephalus arundinaceus,0
+B,Tretåig hackspett,Picoides tridactylus,47
+B,Tretåig mås,Rissa tridactyla,14
+B,Trädgårdssångare,Sylvia borin,0
+B,Trädkrypare,Certhia familiaris,124
+B,Trädlärka,Lullula arborea,0
+B,Trädpiplärka,Anthus trivialis,0
+B,Turkduva,Streptopelia decaocto,30
+R,Turturduva,Streptopelia turtur,0
+R,Tuvsnäppa,Calidris melanotos,0
+R,Tärnmås,Larus sabini,0
+B,Törnskata,Lanius collurio,0
+B,Törnsångare,Sylvia communis,0
+b,Vaktel,Coturnix coturnix,0
+B,Varfågel,Lanius excubitor,31
+R,Vassångare,Locustella luscinioides,0
+R,Vattenpiplärka,Anthus spinoletta,0
+B,Vattenrall,Rallus aquaticus,4
+B,Videsparv,Emberiza rustica,0
+B,Vigg,Aythya fuligula,27583
+B,Vinterhämpling,Carduelis flavirostris,100
+b,Vit stork,Ciconia ciconia,1
+B,Vitkindad gås,Branta leucopsis,5318
+R,Vitnäbbad islom,Gavia adamsii,0
+B,Vitryggig hackspett,Dendrocopos leucotos,0
+R,Vittrut,Larus hyperboreus,0
+R,Vitvingad trut,Larus glaucoides,0
+R,Vitvingad tärna,Chlidonias leucopterus,0
+B,Årta,Anas querquedula,0
+R,Ägretthäger,Egretta alba,0
+B,Ängshök,Circus pygargus,0
+B,Ängspiplärka,Anthus pratensis,9
+B,Ärtsångare,Sylvia curruca,0
